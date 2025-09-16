@@ -1,6 +1,6 @@
 # Real State - Aplicación de Next.js
 
-Esta es una aplicación de Next.js creada con Firebase Studio. Sirve como una plataforma para buscar y ver listados de propiedades. La aplicación utiliza Genkit para funciones impulsadas por IA, como la generación de descripciones de propiedades.
+La aplicación utiliza Genkit para funciones impulsadas por IA, como la generación de descripciones de propiedades.
 
 ## Requisitos Previos
 
