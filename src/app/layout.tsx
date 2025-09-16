@@ -4,8 +4,8 @@ import { Header } from '@/components/layout/header';
 import { Toaster } from '@/components/ui/toaster';
 
 export const metadata: Metadata = {
-  title: 'Property Pulse',
-  description: 'Find your next property with Property Pulse.',
+  title: 'Real State',
+  description: 'Find your next property with Real State.',
 };
 
 export default function RootLayout({
