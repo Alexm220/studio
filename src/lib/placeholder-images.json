@@ -1,3 +1,40 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "property-1",
+      "description": "A modern family house with a beautiful garden.",
+      "imageUrl": "https://picsum.photos/seed/1/600/400",
+      "imageHint": "modern house"
+    },
+    {
+      "id": "property-2",
+      "description": "A luxurious apartment in the city center.",
+      "imageUrl": "https://picsum.photos/seed/2/600/400",
+      "imageHint": "luxury apartment"
+    },
+    {
+      "id": "property-3",
+      "description": "A cozy cottage in the countryside.",
+      "imageUrl": "https://picsum.photos/seed/3/600/400",
+      "imageHint": "cozy cottage"
+    },
+    {
+      "id": "property-4",
+      "description": "A spacious villa with a swimming pool.",
+      "imageUrl": "https://picsum.photos/seed/4/600/400",
+      "imageHint": "villa pool"
+    },
+    {
+      "id": "property-5",
+      "description": "A stylish loft with an open floor plan.",
+      "imageUrl": "https://picsum.photos/seed/5/600/400",
+      "imageHint": "stylish loft"
+    },
+    {
+      "id": "property-6",
+      "description": "A beachfront property with stunning ocean views.",
+      "imageUrl": "https://picsum.photos/seed/6/600/400",
+      "imageHint": "beachfront house"
+    }
+  ]
 }
